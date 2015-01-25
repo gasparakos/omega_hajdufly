@@ -1,0 +1,27 @@
+/* No files to import found in abstractions/**\/* */
+/* line 1, ../sass/base/_media.scss */
+img, media {
+  max-width: 100%; }
+
+/* line 24, ../sass/omega-hajdufly.styles.scss */
+body {
+  ackground: #17293D;
+  background: url("images/body.gif");
+  background: url("../images/body.gif") repeat scroll 0% 0% #17293D; }
+
+/* line 30, ../sass/omega-hajdufly.styles.scss */
+.l-page {
+  idth: 960px;
+  margin: 0 auto; }
+
+/* line 41, ../sass/omega-hajdufly.styles.scss */
+.l-main {
+  background-color: #fff;
+  border: solid 5px blue; }
+  /* line 13, ../../../var/lib/gems/1.9.1/gems/toolkit-2.6.0/stylesheets/toolkit/_clearfix.scss */
+  .l-main:after {
+    content: "";
+    display: table;
+    clear: both; }
+
+/*# sourceMappingURL=omega-hajdufly.no-query.css.map */
